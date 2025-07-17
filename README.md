@@ -1,14 +1,7 @@
-# Run and deploy your AI Studio app
+# Creada con AI Studio app
 
-This contains everything you need to run your app locally.
+Esta simulación ilustra la Ley de Frank-Starling. La curva azul representa la función cardíaca normal. Utiliza los sliders para ver los efectos de diferentes condiciones. Pueden moverse en ambas direcciones:
+- Inotropismo: Aumenta (+) o disminuye (-) la contractilidad del corazón, desplazando la curva verde hacia arriba o abajo.
+- Poscarga: Aumenta (+) o disminuye (-) la resistencia contra la que el corazón eyecta sangre, desplazando la curva roja hacia abajo o arriba.
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Gasto Cardíaco (GC) = Volumen Sistólico (VS) × Frecuencia Cardíaca (FC)
