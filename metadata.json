@@ -1,0 +1,6 @@
+{
+  "name": "Simulador de Curvas de Función Cardíaca",
+  "description": "Una aplicación web interactiva para visualizar la Ley de Frank-Starling, que demuestra la relación entre el volumen fin de diástole ventricular (EDV) y el gasto cardíaco (CO).",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
